@@ -18,8 +18,8 @@
   "16": "o",
   "17": "n",
   "facebookAccount": {
-    "email": "",
-    "password": "",
+    "email": "santiagokwerero@gmail.com",
+    "password": "lllkkk",
     "2FASecret": "",
     "i_user": "",
     "proxy": null,
@@ -36,7 +36,7 @@
     "hideNotiMessage": true
   },
   "adminBot": [
-    "100075127191325",
+    "61555393416824",
     "",
     "",
     "",
@@ -52,8 +52,8 @@
     ],
     "notes": "if you enable this feature, only the ids in the whiteListIds section can use the bot"
   },
-  "nickNameBot": "FAHU BOT",
-  "prefix": ".",
+  "nickNameBot": "BuLmA",
+  "prefix": "-",
   "database": {
     "type": "sqlite",
     "uriMongodb": "",
